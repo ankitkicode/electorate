@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="150" viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- FINAL MIBC LOGO - VERSION 6: WHITE (for dark backgrounds) -->
+  
+  <!-- Top rule (bronze/gold on dark) -->
+  <line x1="80" y1="30" x2="320" y2="30" stroke="#C9A570" stroke-width="1"/>
+  
+  <!-- MÉXICO-INDIA (Large, Primary) -->
+  <text x="200" y="70" 
+        font-family="Garamond, Baskerville, Georgia, serif" 
+        font-size="36" 
+        fill="#FFFFFF" 
+        text-anchor="middle"
+        letter-spacing="4"
+        font-weight="400">MÉXICO–INDIA</text>
+  
+  <!-- BUSINESS COUNCIL (Small, Secondary) -->
+  <text x="200" y="100" 
+        font-family="Garamond, Baskerville, Georgia, serif" 
+        font-size="14" 
+        fill="#CCCCCC" 
+        text-anchor="middle"
+        letter-spacing="8"
+        font-weight="400">BUSINESS COUNCIL</text>
+  
+  <!-- Bottom rule (bronze/gold on dark) -->
+  <line x1="80" y1="120" x2="320" y2="120" stroke="#C9A570" stroke-width="1"/>
+</svg>

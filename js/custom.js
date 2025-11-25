@@ -124,6 +124,9 @@ $(document).ready(function(){
   if($('.main-banner-slider').length){
     $('.main-banner-slider').slick({
     dots:true,
+      arrows: true,
+        autoplay: true,
+        autoplaySpeed: 1000,
 		responsive: [
         {
           breakpoint: 1024,
